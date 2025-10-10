@@ -1,3 +1,4 @@
+<img width="1012" height="709" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/d453d94c-7eb8-45ee-b712-9668a4c692cf" />
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
@@ -36,7 +37,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ <img width="1012" height="709" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/d49ffda4-2094-42c0-b2a6-f977b964d101" />
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
